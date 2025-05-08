@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there 👋 I'm <span style="color:#00bfff">Bharanidharan</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving Hand"/>
+  Hi there 👋 I'm <span style="color:#00bfff">Bharanidharan</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width: 100%;" alt="Waving Hand" />
 </h1>
 
 
