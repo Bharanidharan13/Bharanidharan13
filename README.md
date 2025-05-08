@@ -18,10 +18,9 @@
 ## 🧑‍💻 About Me
 
 - 🎓 AI & Data Science Student  
-- 🤖 Passionate about: Machine Learning, NLP, Generative AI  
-- 🛠️ Tech Enthusiast exploring ML/DL & Embedded Systems  
-- 🔭 Currently working on: [SmartAIChatbot](https://github.com/Bharanidharan13/SmartAIChatbot)  
-- 📫 Reach me at: `bharani@example.com`
+- 🤖 Passionate about: Machine Learning, Front-End, Generative AI, Data Analyst  
+- 🛠️ Tech Enthusiast exploring ML/DL & Embedded Systems    
+- 📫 Reach me at: `bharanidharan1813@gmail.com`
 
 ---
 
@@ -37,7 +36,6 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
@@ -59,10 +57,10 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/bharanidharan-g-82998b2a2/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:bharani@example.com" target="_blank">
+  <a href="mailto:bharanidharan1813@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
