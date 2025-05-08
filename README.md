@@ -1,8 +1,10 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 <br><br>
 <h1 align="center">
-  Hi there 👋 I'm <span style="color:#00bfff">Bharanidharan</span>
+  Hi there 👋, I'm <span style="color:#00bfff">Bharanidharan</span>!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="Waving Hand" />
 </h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=AI+%26+Data+Science+Student;Machine+Learning+%7C+NLP+%7C+Generative+AI;Building+Smart+Things+With+Code" alt="Typing SVG" />
