@@ -1,3 +1,5 @@
+### 🚀 Featured Project
+- 🧠 [SmartAIChatbot](https://github.com/your-username/SmartAIChatbot): A conversational AI chatbot using RAG and LangChain.
 <h1 align="center">
   Hi there 👋, I'm <span style="color:#00bfff">[Bharanidharan]</span>!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
