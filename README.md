@@ -45,13 +45,18 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bharanidharan13&show_icons=true&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bharanidharan13&show_icons=true&theme=tokyonight" alt="Bharanidharan13's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Bharanidharan13&theme=tokyonight" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharanidharan13&layout=compact&theme=tokyonight" width="50%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bharanidharan13&theme=tokyonight" alt="Profile Summary" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharanidharan13&layout=compact&theme=tokyonight" alt="Bharanidharan13's Top Languages" />
+</p>
+
 
 ---
 
@@ -98,4 +103,6 @@
 █████████  ▌       ▄▄████████─         ---------    L'▒▒▒ ██  ██║ ╚═╝ ██║███████╗███████╗   ██║        ██║   ╚██████╔╝╚██████╔╝
 ▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
 </pre>
+
+
 
