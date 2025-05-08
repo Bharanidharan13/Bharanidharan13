@@ -19,7 +19,9 @@
 
 - 🎓 Artificial Intelligence & Data Science Student  
 - 🤖 Passionate about: Machine Learning, Front-End, Generative AI, Data Analyst  
-- 🛠️ Tech Enthusiast exploring ML/DL & Embedded Systems    
+- 🛠️ Tech Enthusiast exploring ML/DL & Embedded Systems
+- 🧩 Love solving real-world problems through intelligent systems
+- 📚 Always learning new technologies and contributing to open-source  
 - 📫 Reach me at: `bharanidharan1813@gmail.com`
 
 ---
