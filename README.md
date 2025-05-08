@@ -4,7 +4,7 @@
 
 <h1 align="center">
   Hi, I'm <span style="color:#00bfff">Bharanidharan</span>!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="Waving Hand" />
+  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="40">
 </h1>
 
 
@@ -16,13 +16,23 @@
 ---
 
 ## 🧑‍💻 About Me
-
-- 🎓 Artificial Intelligence & Data Science Student  
-- 🤖 Passionate about: Machine Learning, Front-End, Generative AI, Data Analyst  
-- 🛠️ Tech Enthusiast exploring ML/DL & Embedded Systems
-- 🧩 Love solving real-world problems through intelligent systems
-- 📚 Always learning new technologies and contributing to open-source  
-- 📫 Reach me at: `bharanidharan1813@gmail.com`
+<table>
+  <tr>
+    <td width="60%">
+      <ul>
+        <li>🎓 Artificial Intelligence & Data Science Student</li>
+        <li>🤖 Passionate about: Machine Learning, Front-End, Generative AI, Data Analyst</li>
+        <li>🛠️ Tech Enthusiast exploring ML/DL & Embedded Systems</li>
+        <li>🧩 Love solving real-world problems through intelligent systems</li>
+        <li>📚 Always learning new technologies and contributing to open-source</li>
+        <li>📫 Reach me at: <code>bharanidharan1813@gmail.com</code></li>
+      </ul>
+    </td>
+    <td align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="250" alt="About Me GIF">
+    </td>
+  </tr>
+</table>
 
 ---
 
