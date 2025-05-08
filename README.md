@@ -95,7 +95,7 @@
     <img src="https://img.icons8.com/?size=100&id=nj0Uj45LGUYh&format=png&color=000000" alt="Instagram" width="40" height="40"/>
   </a>
   <a href="https://t.me/Bharanidharan_13" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=k4jADXhS5U1t&format=png&color=000000" alt="Telegram Icon" width="40" height="40" style="background-color: white; padding: 10px;"/>
+  <img src="https://img.icons8.com/?size=100&id=k4jADXhS5U1t&format=png&color=000000" alt="Telegram" width="40" height="40"/>
 </a>
 
 </p>
