@@ -45,8 +45,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bharanidharan13&show_icons=true&theme=tokyonight" alt="Bharanidharan13's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bharanidharan13&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bharanidharan13&show_icons=true&theme=tokyonight" alt="Bharanidharan13's GitHub Stats" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bharanidharan13&theme=tokyonight" width="45%" />
 </p>
 
 <p align="center">
