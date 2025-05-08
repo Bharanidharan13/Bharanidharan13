@@ -9,8 +9,9 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=AI+%26+Data+Science+Student;Machine+Learning+%7C+Front+End+%7C+Generative+AI;Building+Smart+Things+With+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Machine+Learning+%7C+Front+End+%7C+Generative+AI;Building+Smart+Things+With+Code" alt="Typing SVG" />
 </p>
+
 
 ---
 
