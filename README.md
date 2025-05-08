@@ -16,23 +16,26 @@
 ---
 
 ## 🧑‍💻 About Me
-<table>
-  <tr>
-    <td width="60%">
-      <ul>
-        <li>🎓 Artificial Intelligence & Data Science Student</li>
-        <li>🤖 Passionate about: Machine Learning, Front-End, Generative AI, Data Analyst</li>
-        <li>🛠️ Tech Enthusiast exploring ML/DL & Embedded Systems</li>
-        <li>🧩 Love solving real-world problems through intelligent systems</li>
-        <li>📚 Always learning new technologies and contributing to open-source</li>
-        <li>📫 Reach me at: <code>bharanidharan1813@gmail.com</code></li>
-      </ul>
-    </td>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="250" alt="About Me GIF">
-    </td>
-  </tr>
-</table>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="60%">
+        <ul>
+          <li>🎓 Artificial Intelligence & Data Science Student</li>
+          <li>🤖 Passionate about: Machine Learning, Front-End, Generative AI, Data Analyst</li>
+          <li>🛠️ Tech Enthusiast exploring ML/DL & Embedded Systems</li>
+          <li>🧩 Love solving real-world problems through intelligent systems</li>
+          <li>📚 Always learning new technologies and contributing to open-source</li>
+          <li>📫 Reach me at: <code>bharanidharan1813@gmail.com</code></li>
+        </ul>
+      </td>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="250" alt="About Me GIF">
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
